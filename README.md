@@ -1,1 +1,1 @@
-### Bloodbowl dice calculator
+# Bloodbowl dice calculator
